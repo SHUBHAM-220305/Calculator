@@ -1,5 +1,5 @@
 # Calculator
-
+<!-- Intro -->
 A simple calculator built using HTML, CSS, and JavaScript.  
 It performs basic arithmetic operations: *Addition, Subtraction, Multiplication, and Division*.
 
