@@ -17,4 +17,4 @@ It performs basic arithmetic operations: *Addition, Subtraction, Multiplication,
 
 ## Live Demo
 
-[Click here to open the calculator](https://SHUBHAM-220305.github.io/Calculator)
+[Click here to open the calculator](https://shubham2005-calculator.netlify.app/)
