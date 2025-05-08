@@ -16,6 +16,4 @@ It performs basic arithmetic operations: *Addition, Subtraction, Multiplication,
 - Basic error handling
 
 ## Live Demo
-
-[Click here to open the calculator (LINK - 1)](https://shubham-220305.github.io/Calculator/)
-[Click here to open the calculator (LINK - 2)](https://shubham2005-calculator.netlify.app/)
+[Click here to open the calculator (LINK - 1)](https://shubham-220305.github.io/CodeAlpha_Calculator/)
